@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi there, I'm **[Your Name]**!
 
-<!--
-**Parsa8304/Parsa8304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 I'm a **Python/Django Developer** with a passion for building web applications and working with data!  
+📊 I also explore **Data Science**, **Data Analysis**, and love solving real-world problems with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### 🛠 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-DRF-ff1709?style=flat&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### ⚙️ Tools & Technologies
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Interests
+
+- 🤖 Machine Learning, Data Analysis & Predictive Modeling
+- 🧠 Data Structures & Algorithms
+- 🚢 Dockerizing apps & deploying Django with PostgreSQL
+- 🔐 API security, scalability, and clean architecture
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+> _“Data is the new oil, but Python is the engine.”_ 🚀
