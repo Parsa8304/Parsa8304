@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **[Your Name]**!
+# 👋 Hi there, I'm **Parsa**!
 
 🧑‍💻 I'm a **Python/Django Developer** with a passion for building web applications and working with data!  
 📊 I also explore **Data Science**, **Data Analysis**, and love solving real-world problems with code.
@@ -45,9 +45,9 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/ParsaKhezli)
+- 📧 Email: parsakhezli8304@gmail.com
+
 
 ---
 
