@@ -16,7 +16,17 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### ⚙️ Tools & Technologies
+### 📦 Libraries & Tools
+
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-20A39E?style=flat&logo=n8n&logoColor=white)
+
+### ⚙️ DevOps & Utilities
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -28,26 +38,25 @@
 
 ## 📊 Interests
 
-- 🤖 Machine Learning, Data Analysis & Predictive Modeling
-- 🧠 Data Structures & Algorithms
-- 🚢 Dockerizing apps & deploying Django with PostgreSQL
-- 🔐 API security, scalability, and clean architecture
+- 🤖 Machine Learning, Data Analysis & Predictive Modeling  
+- 🧠 Data Structures & Algorithms  
+- 🚢 Dockerizing apps & deploying Django with PostgreSQL  
+- 🔐 API security, scalability, and clean architecture  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParsaKhezli&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaKhezli&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/ParsaKhezli)
-- 📧 Email: parsakhezli8304@gmail.com
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/ParsaKhezli)
+- 📧 Email: **parsakhezli8304@gmail.com**
 
 ---
 
